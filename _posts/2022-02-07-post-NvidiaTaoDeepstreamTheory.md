@@ -12,7 +12,7 @@ tags:
 
 # Nvidia Tao Tutorial
 
-| ![space-1.jpg](/assets/images/deepstream/ds2.png) | 
+| ![space-1.jpg](https://github.com/saisriteja/saisriteja.github.io/blob/master/assets/images/deepstream/ds2.png?raw=true) | 
 |:--:| 
 | *why DeepStream in the first place?* |
 
@@ -36,9 +36,8 @@ Displays, IOT services, AWS Servers could be anything.
 One things is none of the above are accelerated except the inference block. This is because a module does operations on CPU and a few does it on GPU, the bottleneck part takes time and makes your system slow.
 
 
-
 ## Deepstream Module
-| ![space-1.jpg](/assets/images/deepstream/ds3.png) | 
+| ![space-1.jpg](https://github.com/saisriteja/saisriteja.github.io/blob/master/assets/images/deepstream/ds3.png?raw=true) | 
 |:--:| 
 | *Blocks of Deepstream Module* |
 
@@ -64,7 +63,7 @@ One of the main module that slows down the system is the detector/ classifier, d
 TensorRT is the heart of the Deepstream. You can take TRTorch to convert your pytorch model to TensorRT. TensorRT is a platform for high-performance deep learning inference. It includes a deep learning inference optimizer and runtime that delivers low latency and high-throughput for deep learning inference applications. TensorRT is a C++ library with Python bindings that allows developers to maximize GPU utilization and extract maximum performance from NVIDIA GPUs. TensorRT provides a Python API that allows developers to integrate deep learning inference into their applications. TensorRT is available in the NVIDIA Deep Learning SDK and is supported on NVIDIA Jetson, NVIDIA DGX, and NVIDIA T4 GPUs.
 
 
-| ![space-1.jpg](/assets/images/deepstream/ds4.png) | 
+| ![space-1.jpg](https://github.com/saisriteja/saisriteja.github.io/blob/master/assets/images/deepstream/ds4.png?raw=true) | 
 |:--:| 
 | *TensorRT Module* |
 
@@ -96,7 +95,7 @@ TensorRT makes an engine file in the end which is used by Deepstream to run the 
 
 
 ## GSTreamer
-| ![space-1.jpg](/assets/images/deepstream/ds6.png) | 
+| ![space-1.jpg](https://github.com/saisriteja/saisriteja.github.io/blob/master/assets/images/deepstream/ds6.png?raw=true) | 
 |:--:| 
 | *Gstreamer Module* |
 
@@ -112,20 +111,7 @@ Every plugin have a src(source) and a snk(sink). The function of them are analog
 ## Triton Server
 This is better of all for some reason, if the models are not compactable to deepstream.
 
-| ![space-1.jpg](/assets/images/deepstream/ds5.png) | 
+| ![space-1.jpg](https://github.com/saisriteja/saisriteja.github.io/blob/master/assets/images/deepstream/ds5.png?raw=true) | 
 |:--:| 
 | *TensorRT Module* |
-
-
-
-
-
-
-
-
-
-
-
-
-
 
