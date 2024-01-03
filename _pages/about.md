@@ -3,11 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-A highly-motivated engineering undergraduate who is seeking to excel and want to grow in a challenging world along with your organization using innovative thinking, adaptability skills, and facing challenges to raise the standards of me and the organization in the sphere of business and management.
+An exclusive community of Image Processing (IP) Engineers who could help the peers of IITM-RP to share each other’s expertise, ideate and solve real world problems outside their work. This community can gain confidence in Image Processing through active involvement in diverse activities, interactions, and collaborations, providing comprehensive exposure to every aspect of this field.
 
-Despite being an Undergrad student in Electronics and Communication, I have completed, courses in Deep Learning, Machine Learning by hands-on practice approach, and data analysis that has provided me with a firm understanding of rising market strategies and technologies.
+Objective of the group:
 
-# Education
-
-Bachelors in Electronic and Communication Engineering @SASTRA University(2021 Batch).
+1. To make image processing simpler to being with and fun to continue along.
+2. To build a network of people from different verticals, industries, and academics of Image Processing.
+3. To advance one's skill by cross industry/domain/research knowledge sharing.
+4. To foster peer to peer learning and to be up to date with the latest technologies.
 
