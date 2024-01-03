@@ -51,7 +51,7 @@ Tracking for object detection is done on GPU/CPU.
 visuvalization, When you wnated to draw on an image, GPU takes care of it.
 
 
-| ![space-1.jpg](/assets/images/deepstream/ds1.png) | 
+| ![space-1.jpg](https://github.com/saisriteja/saisriteja.github.io/blob/master/assets/images/deepstream/ds1.png?raw=true) | 
 |:--:| 
 | *Complete Deepstream Module* |
 
