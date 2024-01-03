@@ -11,4 +11,3 @@ Objective of the group:
 2. To build a network of people from different verticals, industries, and academics of Image Processing.
 3. To advance one's skill by cross industry/domain/research knowledge sharing.
 4. To foster peer to peer learning and to be up to date with the latest technologies.
-
